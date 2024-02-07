@@ -10,7 +10,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import pairwise_distances_argmin_min
 import numpy as np
 
-with open("20240206.json", 'r') as f:
+with open("data/20240206.json", 'r') as f:
     probes = loads(f.read())["objects"]
 
 def is_connected(probe_id: int) -> bool:

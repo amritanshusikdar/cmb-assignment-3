@@ -16,7 +16,7 @@
 from json import loads
 import sys
 
-with open("20240206.json", 'r') as f:
+with open("data/20240206.json", 'r') as f:
     probes = loads(f.read())
 
 
