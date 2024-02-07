@@ -60,6 +60,22 @@ def distance(loc1: float, loc2: float) -> float:
     """Returns the distance in kilometers between to points on Earth defined by their location"""
     return haversine(loc1, loc2)
 
+def output_csv(ids_list):
+    locs = get_location_list(ids_list)
+    with open("output.csv", "w") as f:
+        for i in range(50):
+            loc = locs.pop()
+            f.write(f"wifi,{loc[0]},{loc[1]}\n")
+        for i in range(50):
+            loc = locs.pop()
+            f.write(f"cellular,{loc[0]},{loc[1]}\n")
+        for i in range(50):
+            loc = locs.pop()
+            f.write(f"starlink,{loc[0]},{loc[1]}\n")
+        for loc in locs:
+            f.write(f"ethernet,{loc[0]},{loc[1]}\n")
+
+
 def select_probes(L_wifi: list, L_cellular: list, L_starlink: list, possible_choices: list, radius: float = 10) -> list:
     """Select the last 100 probes from the possible choices using the set of first chosen probes"""
 
@@ -147,3 +163,5 @@ L_residential_ethernet = [7, 8, 24, 32, 69, 78, 103, 198, 212, 246, 283, 295, 30
 selected = select_probes(L_wifi, L_cellular, L_starlink, L_residential_ethernet, 20)
 print("Selected probes:")
 print(selected)
+
+output_csv(selected)
