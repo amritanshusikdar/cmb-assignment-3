@@ -62,3 +62,5 @@ df["continent"] = df.apply(lambda row: get_continent(row["latitude"], row["longi
 
 # Write the dataframe to updated csv
 df.to_csv("coordinates_continents", sep='\t')
+
+print(df["continent"].value_counts()/len(df["continent"]))
