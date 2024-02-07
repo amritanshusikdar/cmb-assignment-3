@@ -67,18 +67,19 @@ def output_csv(ids_list: [int]):
     """Creates a csv file with the probes following information: (type of probe,latitude,longitude). 
     The type of probe is either 'wifi', 'cellular', 'starlink' or 'ethernet'."""
     locs = get_location_list(ids_list)
-    with open("output.csv", "w") as f:
+    with open("data/output.csv", "w") as f:
+        f.write("id,type,latitude,longitude\n")
         for i in range(50):
-            loc = locs.pop()
-            f.write(f"wifi,{loc[0]},{loc[1]}\n")
-        for i in range(50):
-            loc = locs.pop()
-            f.write(f"cellular,{loc[0]},{loc[1]}\n")
-        for i in range(50):
-            loc = locs.pop()
-            f.write(f"starlink,{loc[0]},{loc[1]}\n")
-        for loc in locs:
-            f.write(f"ethernet,{loc[0]},{loc[1]}\n")
+            loc = locs[i]
+            f.write(f"{ids_list[i]},wifi,{loc[0]},{loc[1]}\n")
+        for i in range(50, 100):
+            loc = locs[i]
+            f.write(f"{ids_list[i]},cellular,{loc[0]},{loc[1]}\n")
+        for i in range(100, 150):
+            loc = locs[i]
+            f.write(f"{ids_list[i]},starlink,{loc[0]},{loc[1]}\n")
+        for loc in locs[150:]:
+            f.write(f"{ids_list[i]},ethernet,{loc[0]},{loc[1]}\n")
 
 def select_probes(L_wifi: list, L_cellular: list, L_starlink: list, possible_choices: list, radius: float = 20) -> list:
     """Selects the set of probes from the given filtered lists of probe ids.
