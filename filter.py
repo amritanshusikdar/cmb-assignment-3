@@ -24,7 +24,7 @@ def apply_filter(filters: list):
     ret = {}
     filters_set = set(filters)
     for key, values in enumerate(probes["objects"]):
-        if filters_set.issubset(set(values["tags"])):
+        if filters_set.issubset(set(values["tags"])) and not values['is_anchor'] and values['is_public']:
             ret[key] = values
     return ret
 
