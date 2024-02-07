@@ -1,0 +1,133 @@
+,Unnamed: 0,URL,CP,State,City,Country,IP,latitude,longitude,continent,country code
+0,0,https://ec2.us-east-1.amazonaws.com/ping,AWS,N. Virginia,Ashburn,United States,209.54.181.135,39.0438,-77.4874,North America,US
+1,1,https://ec2.us-east-2.amazonaws.com/ping,AWS,Ohio,Columbus,United States,99.78.180.181,40.0992,-83.1141,North America,US
+2,2,https://ec2.us-west-1.amazonaws.com/ping,AWS,N. California,San Francisco,United States,176.32.118.30,37.3394,-121.895,North America,US
+3,3,https://ec2.us-west-2.amazonaws.com/ping,AWS,Oregon,Portland,United States,52.94.181.41,45.5235,-122.676,North America,US
+4,4,https://ec2.ap-east-1.amazonaws.com/ping,AWS,Hong Kong,Hong Kong,Hong Kong,13.248.36.100,22.3964,114.109,Asia,CN
+5,5,https://ec2.ap-south-1.amazonaws.com/ping,AWS,Mumbai,Mumbai,India,52.95.84.21,19.076,72.8777,Asia,IN
+6,6,https://ec2.ap-northeast-3.amazonaws.com/ping,AWS,Osaka,Osaka,Japan,13.248.4.70,34.6937,135.502,Asia,JP
+7,7,https://ec2.ap-northeast-2.amazonaws.com/ping,AWS,Seoul,Seoul,South Korea,52.95.193.80,37.5665,126.978,Asia,KR
+8,8,https://ec2.ap-southeast-1.amazonaws.com/ping,AWS,Singapore,Singapore,Singapore,15.221.12.228,1.28009,103.851,Asia,SG
+9,9,https://ec2.ap-southeast-2.amazonaws.com/ping,AWS,Sydney,Sydney,Australia,99.83.81.36,-33.8591,151.2002,Oceania,AU
+10,10,https://ec2.ap-southeast-3.amazonaws.com/ping,AWS,Jakarta,Jakarta,Indonesia,99.78.244.123,-6.1741,106.8296,Asia,ID
+11,11,https://ec2.ap-northeast-1.amazonaws.com/ping,AWS,Tokyo,Tokyo,Japan,99.77.62.126,35.6895,139.692,Asia,JP
+12,12,https://ec2.ca-central-1.amazonaws.com/ping,AWS,Canada Central,Montreal,Canada,52.94.100.54,43.6532,-79.3832,North America,CA
+13,13,https://ec2.eu-south-1.amazonaws.com/ping,AWS,Milan,Milan,Italy,52.119.132.74,45.4681,9.2011,Europe,IT
+14,14,https://ec2.eu-central-1.amazonaws.com/ping,AWS,Frankfurt,Frankfurt,Germany,52.94.138.238,50.1109,8.68213,Europe,DE
+15,15,https://ec2.eu-west-1.amazonaws.com/ping,AWS,Ireland,Dublin,Ireland,54.239.37.252,53.3498,-6.26031,Europe,IE
+16,16,https://ec2.eu-west-2.amazonaws.com/ping,AWS,London,London,United Kingdom,52.94.48.63,51.5074,-0.127758,Europe,GB
+17,17,https://ec2.eu-west-3.amazonaws.com/ping,AWS,Paris,Paris,France,52.46.68.57,48.8566,2.35222,Europe,FR
+18,18,https://ec2.eu-north-1.amazonaws.com/ping,AWS,Stockholm,Stockholm,Sweden,52.46.196.96,59.3293,18.0686,Europe,SE
+19,19,https://ec2.me-south-1.amazonaws.com/ping,AWS,Bahrain,Manama,Bahrain,99.82.128.102,26.2167,50.5833,Asia,BH
+20,20,https://ec2.af-south-1.amazonaws.com/ping,AWS,Cape Town,Cape Town,South Africa,99.78.136.92,-26.2041,28.0473,Africa,ZA
+21,21,https://ec2.sa-east-1.amazonaws.com/ping,AWS,São Paulo,São Paulo,Brazil,177.72.245.165,-23.5505,-46.6333,South America,BR
+22,22,https://feitsui-bom.oss-ap-south-1.aliyuncs.com/ping.html,Alibaba,Mumbai,Mumbai,India,149.129.143.61,19.0748,72.8856,Asia,IN
+23,23,https://feitsui-kul.oss-ap-southeast-3.aliyuncs.com/ping.html,Alibaba,Kuala Lumpur,Kuala Lumpur,Malaysia,47.254.218.26,3.1412,101.685,Asia,MY
+24,24,https://feitsui-silicon-valley.oss-us-west-1.aliyuncs.com/ping.html,Alibaba,Silicon Valley,San Jose,United States,47.254.114.119,36.7783,-119.418,North America,US
+25,25,https://feitsui-cgk.oss-ap-southeast-5.aliyuncs.com/ping.html,Alibaba,Jakarta,Jakarta,Indonesia,149.129.200.34,-6.2114,106.8446,Asia,ID
+26,26,https://feitsui-sin.oss-ap-southeast-1.aliyuncs.com/ping.html,Alibaba,Singapore,Singapore,Singapore,161.117.155.93,1.35208,103.82,Asia,SG
+27,27,https://feitsui-mnl.oss-ap-southeast-6.aliyuncs.com/ping.html,Alibaba,Manila,Manila,Philippines,8.212.139.140,14.6019,120.9896,Asia,PH
+28,28,https://feitsui-syd.oss-ap-southeast-2.aliyuncs.com/ping.html,Alibaba,Sydney,Sydney,Australia,47.74.79.155,-33.8715,151.2006,Oceania,AU
+29,29,https://feitsui-bkk.oss-ap-southeast-7.aliyuncs.com/ping.html,Alibaba,Bangkok,Bangkok,Thailand,8.213.160.102,13.7512,100.5172,Asia,TH
+30,30,https://feitsui-dxb.oss-me-east-1.aliyuncs.com/ping.html,Alibaba,Dubai,Dubai,United Arab Emirates,47.91.99.18,25.0731,55.298,Asia,AE
+31,31,https://feitsui-icn.oss-ap-northeast-2.aliyuncs.com/ping.html,Alibaba,Seoul,Seoul,South Korea,149.129.12.59,37.5794,126.9754,Asia,KR
+32,32,https://feitsui-fra.oss-eu-central-1.aliyuncs.com/ping.html,Alibaba,Frankfurt,Frankfurt,Germany,47.254.186.91,50.1138,8.6521,Europe,DE
+33,33,https://feitsui-virginia.oss-us-east-1.aliyuncs.com/ping.html,Alibaba,Virginia,Ashburn,United States,47.253.30.167,37.4316,-78.6569,North America,US
+34,34,https://feitsui-nrt.oss-ap-northeast-1.aliyuncs.com/ping.html,Alibaba,Tokyo,Tokyo,Japan,47.245.49.2,35.6893,139.6899,Asia,JP
+35,35,https://feitsui-lhr.oss-eu-west-1.aliyuncs.com/ping.html,Alibaba,London,London,United Kingdom,8.208.40.164,51.5088,-0.093,Europe,GB
+36,36,https://wa-us-ping.vultr.com,Vultr,WA,Seattle,United States,108.61.194.105,47.3798,-122.2893,North America,US
+37,37,https://lax-ca-us-ping.vultr.com,Vultr,CA,Los Angeles,United States,108.61.219.200,34.0544,-118.244,North America,US
+38,38,https://sjo-ca-us-ping.vultr.com,Vultr,CA,Silicon Valley,United States,104.156.230.107,37.3931,-121.962,North America,US
+39,39,https://fl-us-ping.vultr.com,Vultr,FL,Miami,United States,104.156.244.232,25.8119,-80.2318,North America,US
+40,40,https://ga-us-ping.vultr.com,Vultr,GA,Atlanta,United States,108.61.193.166,33.7838,-84.4455,North America,US
+41,41,https://hon-hi-us-ping.vultr.com,Vultr,HI,Honolulu,United States,208.72.154.76,21.3037,-157.8667,North America,US
+42,42,https://il-us-ping.vultr.com,Vultr,IL,Chicago,United States,107.191.51.12,42.0048,-87.9954,North America,US
+43,43,https://nj-us-ping.vultr.com,Vultr,NJ,New Jersey,United States,108.61.149.182,40.5511,-74.4606,North America,US
+44,44,https://tx-us-ping.vultr.com,Vultr,TX,Dallas,United States,108.61.224.175,32.7889,-96.8021,North America,US
+45,45,https://tor-ca-ping.vultr.com,Vultr,Unknown,Toronto,Canada,149.248.50.81,43.709,-79.4057,North America,CA
+46,46,https://mex-mx-ping.vultr.com,Vultr,Unknown,Mexico City,Mexico,216.238.66.16,20.5762,-100.2951,North America,MX
+47,47,https://sao-br-ping.vultr.com,Vultr,Unknown,Sao Paulo,Brazil,216.238.98.118,-23.5312,-46.7901,South America,BR
+48,48,https://fra-de-ping.vultr.com,Vultr,Unknown,Frankfurt,Germany,108.61.210.117,50.1103,8.7147,Europe,DE
+49,49,https://mad-es-ping.vultr.com,Vultr,Unknown,Madrid,Spain,208.76.222.30,40.4163,-3.6934,Europe,ES
+50,50,https://par-fr-ping.vultr.com,Vultr,Unknown,Paris,France,108.61.209.127,48.9163,2.3869,Europe,FR
+51,51,https://lon-gb-ping.vultr.com,Vultr,Unknown,London,UK,108.61.196.101,51.5026,-0.0668,Europe,GB
+52,52,https://ams-nl-ping.vultr.com,Vultr,Unknown,Amsterdam,Netherlands,108.61.198.102,52.3891,4.6563,Europe,NL
+53,53,https://waw-pl-ping.vultr.com,Vultr,Unknown,Warsaw,Poland,70.34.242.24,52.2296,21.0067,Europe,PL
+54,54,https://sto-se-ping.vultr.com,Vultr,Unknown,Stockholm,Sweden,70.34.194.86,59.3779,17.9155,Europe,SE
+55,55,https://hnd-jp-ping.vultr.com,Vultr,Unknown,Tokyo,Japan,108.61.201.151,34.509,135.793,Asia,JP
+56,56,https://sel-kor-ping.vultr.com,Vultr,Unknown,Seoul,Korea,141.164.34.61,37.5681,126.8998,Asia,KR
+57,57,https://sgp-ping.vultr.com,Vultr,Unknown,Seoul,Korea,45.32.100.168,1.32123,103.695,Asia,SG
+58,58,https://syd-au-ping.vultr.com,Vultr,Unknown,Sydney,Australia,108.61.212.117,-33.8715,151.2006,Oceania,AU
+59,59,https://mel-au-ping.vultr.com,Vultr,Unknown,Melbourne,Australia,67.219.110.24,-37.8372,144.9354,Oceania,AU
+60,60,https://speedtest.newark.linode.com/,Linode,US East,Newark,East,50.116.57.237,40.8229,-74.4592,North America,US
+61,61,https://speedtest.atlanta.linode.com/,Linode,US Southeast,Atlanta,Southeast,192.155.94.157,33.7485,-84.3871,North America,US
+62,62,https://speedtest.dallas.linode.com/,Linode,US Central,Dallas,Central,50.116.25.154,32.9473,-96.7028,North America,US
+63,63,https://speedtest.fremont.linode.com/,Linode,US West,Fremont,West,50.116.14.9,37.5625,-122.0004,North America,US
+64,64,https://speedtest.toronto1.linode.com/,Linode,CA Central,Toronto,Central,172.105.30.21,43.709,-79.4057,North America,CA
+65,65,https://speedtest.frankfurt.linode.com/,Linode,Germany,Frankfurt,Unknown,139.162.130.8,50.1188,8.6843,Europe,DE
+66,66,https://speedtest.london.linode.com/,Linode,UK,London,Unknown,176.58.107.39,51.5088,-0.093,Europe,GB
+67,67,https://speedtest.singapore.linode.com/,Linode,AP South,Singapore,South,139.162.23.4,1.28967,103.85,Asia,SG
+68,68,https://speedtest.syd1.linode.com/,Linode,AP Southeast,Sydney,Southeast,172.105.174.7,-33.8715,151.2006,Oceania,AU
+69,69,https://speedtest.tokyo2.linode.com/,Linode,AP Northeast,Tokyo,Northeast,139.162.65.37,35.6893,139.6899,Asia,JP
+70,70,https://speedtest.mumbai1.linode.com/,Linode,AP West,Mumbai,West,172.105.33.31,19.0748,72.8856,Asia,IN
+71,71,https://feitsui-hkg-1251417183.cos.ap-hongkong.myqcloud.com/ping.html,Tencent,Unknown,Hong Kong,China,43.132.105.108,22.3193,114.1693,Asia,CN
+72,72,https://feitsui-bkk-1251417183.cos.ap-bangkok.myqcloud.com/ping.html,Tencent,Unknown,Bangkok,Thailand,43.128.193.10,13.7563,100.5017,Asia,TH
+73,73,https://feitsui-cgk-1251417183.cos.ap-jakarta.myqcloud.com/ping.html,Tencent,Unknown,Jakarta,Indonesia,43.129.45.113,-6.2087,106.8455,Asia,ID
+74,74,https://feitsui-bom-1251417183.cos.ap-mumbai.myqcloud.com/ping.html,Tencent,Unknown,Mumbai,India,101.32.231.193,19.0748,72.8856,Asia,IN
+75,75,https://feitsui-icn-1251417183.cos.ap-seoul.myqcloud.com/ping.html,Tencent,Unknown,Seoul,Korea,119.28.147.117,37.5665,126.9779,Asia,KR
+76,76,https://feitsui-sin-1251417183.cos.ap-singapore.myqcloud.com/ping.html,Tencent,Unknown,Singapore,Singapore,43.152.64.207,1.352,103.8198,Asia,SG
+77,77,https://feitsui-nrt-1251417183.cos.ap-tokyo.myqcloud.com/ping.html,Tencent,Unknown,Tokyo,Japan,43.128.240.52,35.6761,139.6503,Asia,JP
+78,78,https://feitsui-iad-1251417183.cos.na-ashburn.myqcloud.com/ping.html,Tencent,VA,Ashburn,United States,49.51.77.119,39.0469,-77.4903,North America,US
+79,79,https://feitsui-siliconvalley-1251417183.cos.na-siliconvalley.myqcloud.com/ping.html,Tencent,CA,Silicon Valley,United States,170.106.97.195,37.3382,-121.886,North America,US
+80,80,https://feitsui-yto-1251417183.cos.na-toronto.myqcloud.com/ping.html,Tencent,Unknown,Toronto,Canada,49.51.54.104,44.3893,-79.6903,North America,CA
+81,81,https://feitsui-gru-1251417183.cos.sa-saopaulo.myqcloud.com/ping.html,Tencent,Unknown,Sao Paulo,Brazil,43.135.205.247,-23.5505,-46.6333,South America,BR
+82,82,https://feitsui-fra-1251417183.cos.eu-frankfurt.myqcloud.com/ping.html,Tencent,Unknown,Frankfurt,Germany,162.62.150.176,50.1188,8.6843,Europe,DE
+83,83,https://feitsui-hk.hk.ufileos.com/ping.html,UCloud,hk,Hong Kong,Hong Kong,123.58.223.81,22.3193,114.169,Asia,CN
+84,84,https://feitsui-tpe.tw-tp.ufileos.com/ping.html,UCloud,tw-tp,Taipei,Taiwan,152.32.231.7,25.0504,121.5324,Asia,TW
+85,85,https://feitsui-los.afr-nigeria.ufileos.com/ping.html,UCloud,afr-nigeria,Lagos,Nigeria,23.248.185.157,6.52438,3.37921,Africa,NG
+86,86,https://feitsui-gru.bra-saopaulo.ufileos.com/ping.html,UCloud,bra-saopaulo,Sao Paulo,Brazil,172.96.124.47,-23.5505,-46.6333,South America,BR
+87,87,https://feitsui-fra.ge-fra.ufileos.com/ping.html,UCloud,ge-fra,Frankfurt,Germany,128.14.225.21,50.1153,8.6805,Europe,DE
+88,88,https://feitsui-cgk.idn-jakarta.ufileos.com/ping.html,UCloud,idn-jakarta,Jakarta,Indonesia,152.32.152.149,-6.2114,106.8446,Asia,ID
+89,89,https://feitsui-bom.ind-mumbai.ufileos.com/ping.html,UCloud,ind-mumbai,Mumbai,India,45.40.56.163,19.076,72.8777,Asia,IN
+90,90,https://feitsui-icn.kr-seoul.ufileos.com/ping.html,UCloud,kr-seoul,Seoul,Korea,165.154.85.11,37.5794,126.9754,Asia,KR
+91,91,https://feitsui-sg.sg.ufileos.com/ping.html,UCloud,sg,Singapore,Singapore,104.218.162.29,1.35208,103.82,Asia,SG
+92,92,https://feitsui-dxb.uae-dubai.ufileos.com/ping.html,UCloud,uae-dubai,Dubai,UAE,23.248.184.33,25.1212,55.2005,Asia,AE
+93,93,https://feitsui-lax.us-ca.ufileos.com/ping.html,UCloud,us-ca,Los Angeles,US,118.193.76.37,34.0544,-118.2441,North America,US
+94,95,https://feitsui-sgn.vn-sng.ufileos.com/ping.html,UCloud,vn-sng,Singapore,Singapore,152.32.160.33,10.822,106.6257,Asia,VN
+95,96,https://feitsui-bjs.cn-bj.ufileos.com/ping.html,UCloud,cn-bj,Beijing,China,117.50.123.23,39.9042,116.407,Asia,CN
+96,97,https://feitsui-can.cn-gd.ufileos.com/ping.html,UCloud,cn-gd,Guangzhou,China,106.75.183.117,39.9042,116.407,Asia,CN
+97,98,https://feitsui-sha2.cn-sh2.ufileos.com/ping.html,UCloud,cn-sh2,Shanghai 2,China,106.75.208.25,39.9042,116.407,Asia,CN
+98,104,https://objectstorage.ap-singapore-1.oraclecloud.com/ping,Oracle,ap-singapore-1,Unknown, Unknown,134.70.128.1,1.36945,103.969,Asia,SG
+99,105,https://objectstorage.me-jeddah-1.oraclecloud.com/ping,Oracle,me-jeddah-1,Unknown, Unknown,134.70.100.3,21.5168,39.2192,Asia,SA
+100,106,https://objectstorage.il-jerusalem-1.oraclecloud.com/ping,Oracle,il-jerusalem-1,Unknown, Unknown,134.70.172.1,31.7674,35.2186,Asia,IL
+101,107,https://objectstorage.ap-seoul-1.oraclecloud.com/ping,Oracle,ap-seoul-1,Unknown, Unknown,134.70.96.3,37.5985,126.9783,Asia,KR
+102,108,https://objectstorage.ca-toronto-1.oraclecloud.com/ping,Oracle,ca-toronto-1,Canada, Toronto,134.70.72.3,43.8072,-79.5946,North America,CA
+103,109,https://objectstorage.us-sanjose-1.oraclecloud.com/ping,Oracle,us-sanjose-1,Unknown, Unknown,134.70.124.2,37.2329,-121.7875,North America,US
+104,110,https://objectstorage.eu-madrid-1.oraclecloud.com/ping,Oracle,eu-madrid-1,Unknown, Unknown,134.70.176.1,40.4327,-3.621,Europe,ES
+105,111,https://objectstorage.ap-sydney-1.oraclecloud.com/ping,Oracle,ap-sydney-1,Australia, Sydney,134.70.92.3,-33.8688,151.209,Oceania,AU
+106,112,https://objectstorage.sa-saopaulo-1.oraclecloud.com/ping,Oracle,sa-saopaulo-1,Brazil, Sao Paulo,134.70.84.3,-23.5475,-46.6361,South America,BR
+107,113,https://objectstorage.mx-monterrey-1.oraclecloud.com/ping,Oracle,mx-monterrey-1,Unknown, Unknown,134.70.200.1,25.7729,-100.2237,North America,MX
+108,114,https://objectstorage.ap-osaka-1.oraclecloud.com/ping,Oracle,ap-osaka-1,Unknown, Unknown,134.70.112.3,34.8225,135.4711,Asia,JP
+109,115,https://objectstorage.us-ashburn-1.oraclecloud.com/ping,Oracle,us-ashburn-1,Unknown, Unknown,134.70.32.1,39.018,-77.539,North America,US
+110,116,https://objectstorage.sa-santiago-1.oraclecloud.com/ping,Oracle,sa-santiago-1,Unknown, Unknown,134.70.152.1,-33.4513,-70.6653,South America,CL
+111,117,https://objectstorage.eu-stockholm-1.oraclecloud.com/ping,Oracle,eu-stockholm-1,Unknown, Unknown,134.70.156.1,59.2466,18.1168,Europe,SE
+112,118,https://objectstorage.eu-amsterdam-1.oraclecloud.com/ping,Oracle,eu-amsterdam-1,Unknown, Unknown,134.70.104.1,52.352,4.9392,Europe,NL
+113,119,https://objectstorage.me-abudhabi-1.oraclecloud.com/ping,Oracle,me-abudhabi-1,Unknown, Unknown,134.70.144.1,24.4267,54.615,Asia,AE
+114,120,https://objectstorage.ap-tokyo-1.oraclecloud.com/ping,Oracle,ap-tokyo-1,Unknown, Unknown,134.70.80.3,35.798,140.1803,Asia,JP
+115,121,https://objectstorage.me-dubai-1.oraclecloud.com/ping,Oracle,me-dubai-1,Unknown, Unknown,134.70.148.1,25.2633,55.3087,Asia,AE
+116,122,https://objectstorage.eu-zurich-1.oraclecloud.com/ping,Oracle,eu-zurich-1,Unknown, Unknown,134.70.88.3,47.4049,8.4631,Europe,CH
+117,123,https://objectstorage.ap-hyderabad-1.oraclecloud.com/ping,Oracle,ap-hyderabad-1,Unknown, Unknown,134.70.120.2,17.384,78.4564,Asia,IN
+118,124,https://objectstorage.ap-melbourne-1.oraclecloud.com/ping,Oracle,ap-melbourne-1,Australia, Melbourne,134.70.108.3,-37.7512,144.7508,Oceania,AU
+119,125,https://objectstorage.sa-vinhedo-1.oraclecloud.com/ping,Oracle,sa-vinhedo-1,Brazil, Vinhedo,134.70.140.1,-23.0564,-46.9834,South America,BR
+120,126,https://objectstorage.ap-chuncheon-1.oraclecloud.com/ping,Oracle,ap-chuncheon-1,Unknown, Unknown,134.70.132.2,37.8897,127.736,Asia,KR
+121,127,https://objectstorage.uk-cardiff-1.oraclecloud.com/ping,Oracle,uk-cardiff-1,Unknown, Unknown,134.70.136.1,51.5893,-2.9931,Europe,GB
+122,128,https://objectstorage.us-phoenix-1.oraclecloud.com/ping,Oracle,us-phoenix-1,Unknown, Unknown,134.70.8.1,33.4656,-111.9956,North America,US
+123,129,https://objectstorage.ca-montreal-1.oraclecloud.com/ping,Oracle,ca-montreal-1,Unknown, Unknown,134.70.116.1,45.4914,-73.74,North America,CA
+124,130,https://objectstorage.af-johannesburg-1.oraclecloud.com/ping,Oracle,af-johannesburg-1,Unknown, Unknown,134.70.160.1,-26.2309,28.0583,Africa,ZA
+125,131,https://objectstorage.eu-marseille-1.oraclecloud.com/ping,Oracle,eu-marseille-1,Unknown, Unknown,134.70.164.1,43.3736,5.3547,Europe,FR
+126,132,https://objectstorage.eu-milan-1.oraclecloud.com/ping,Oracle,eu-milan-1,Unknown, Unknown,134.70.168.1,45.3161,9.206,Europe,IT
+127,133,https://objectstorage.uk-london-1.oraclecloud.com/ping,Oracle,uk-london-1,Unknown, Unknown,134.70.64.1,51.5177,-0.6215,Europe,GB
+128,134,https://objectstorage.ap-mumbai-1.oraclecloud.com/ping,Oracle,ap-mumbai-1,Unknown, Unknown,134.70.76.3,19.0748,72.8856,Asia,IN
+129,135,https://objectstorage.eu-paris-1.oraclecloud.com/ping,Oracle,eu-paris-1,Unknown, Unknown,134.70.180.1,48.8323,2.4075,Europe,FR
+130,136,https://objectstorage.mx-queretaro-1.oraclecloud.com/ping,Oracle,mx-queretaro-1,Unknown, Unknown,134.70.184.1,20.527,-100.3141,North America,MX
+131,137,https://objectstorage.us-chicago-1.oraclecloud.com/ping,Oracle,us-chicago-1,Unknown, Unknown,134.70.192.1,41.8486,-87.6288,North America,US
