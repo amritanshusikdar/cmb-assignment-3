@@ -1,4 +1,4 @@
-,URL,CP,State,City,Country,IP,lon,lat
+id,URL,CP,State,City,Country,IP,lon,lat
 0,https://ec2.us-east-1.amazonaws.com/ping,AWS,N. Virginia,Ashburn,United States,209.54.181.135,-77.4874,39.0438
 1,https://ec2.us-east-2.amazonaws.com/ping,AWS,Ohio,Columbus,United States,99.78.180.181,-83.1141,40.0992
 2,https://ec2.us-west-1.amazonaws.com/ping,AWS,N. California,San Francisco,United States,176.32.118.30,-121.895,37.3394
