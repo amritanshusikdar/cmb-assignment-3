@@ -35,15 +35,18 @@ for probe_index, probe in df_probes.iterrows():
         # Calculate the distance between the nodes
         distance = haversine((probe_lat,probe_lon), (dc_lat,dc_lon))
 
-        # 1. Same country
-        if probe_country == dc_country:
-            mappings.append((probe['id'], data_center['URL'], data_center['IP']))
+        # 1. Same country. Filter distance for islands belonging to a country far away
+        if probe_country == dc_country and distance <= 8000:
+            mappings.append((probe['id'], data_center['URL'], data_center['IP'], probe['latitude'], probe['longitude'],
+                             data_center['latitude'], data_center['longitude']))
 
         # 2. Within 2000 km radius
         elif distance <= 2000:
-            mappings.append((probe['id'], data_center['URL'], data_center['IP']))
+            mappings.append((probe['id'], data_center['URL'], data_center['IP'], probe['latitude'], probe['longitude'],
+                             data_center['latitude'], data_center['longitude']))
 
-df_combined = pd.DataFrame(mappings, columns=['probe_id', 'data_center_url', 'IP'])
+df_combined = pd.DataFrame(mappings, columns=['probe_id', 'data_center_url', 'IP', 'probe latitude', 'probe longitude',
+                                              'data center latitude', 'data center longitude'])
 
 
 df_combined.to_csv('data/probe_datacenter_mapping.csv')
