@@ -78,7 +78,8 @@ def output_csv(ids_list: [int]):
         for i in range(100, 150):
             loc = locs[i]
             f.write(f"{ids_list[i]},starlink,{loc[0]},{loc[1]}\n")
-        for loc in locs[150:]:
+        for i in range(150, len(locs)):
+            loc = locs[i]
             f.write(f"{ids_list[i]},ethernet,{loc[0]},{loc[1]}\n")
 
 def select_probes(L_wifi: list, L_cellular: list, L_starlink: list, possible_choices: list, radius: float = 20) -> list:
