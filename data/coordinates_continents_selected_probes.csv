@@ -1,251 +1,251 @@
 ,id,type,latitude,longitude,continent,country code
 0,1006833,wifi,10.1385,76.4585,Asia,IN
-1,1000559,wifi,42.6915,23.3395,Europe,BG
-2,29049,wifi,30.3615,-91.0005,North America,US
-3,52844,wifi,37.7795,140.4495,Asia,JP
-4,24628,wifi,-23.6685,-46.7415,South America,BR
-5,21529,wifi,50.6415,5.5785,Europe,BE
-6,24908,wifi,43.0515,-124.4225,North America,US
-7,1000327,wifi,-22.5595,17.0685,Africa,NA
-8,14680,wifi,53.3375,83.7715,Europe,RU
-9,30596,wifi,32.8205,35.0715,Asia,IL
-10,1005846,wifi,14.6205,121.0095,Asia,PH
-11,51025,wifi,43.1295,-77.5615,North America,US
-12,14723,wifi,55.7785,37.4585,Europe,RU
-13,1004600,wifi,50.1575,16.9475,Europe,CZ
-14,53569,wifi,40.3615,50.0705,Asia,AZ
-15,18833,wifi,41.5885,-4.7315,Europe,ES
-16,50852,wifi,50.3285,11.6995,Europe,DE
-17,32,wifi,32.8885,-117.1815,North America,US
+1,1007500,wifi,48.2475,11.6075,Europe,DE
+2,1002768,wifi,45.5215,-122.8095,North America,US
+3,1005958,wifi,35.9615,129.3995,Asia,KR
+4,1002493,wifi,42.3085,-83.7185,North America,US
+5,1000327,wifi,-22.5595,17.0685,Africa,NA
+6,50274,wifi,36.0695,32.8405,Asia,TR
+7,24628,wifi,-23.6685,-46.7415,South America,BR
+8,11268,wifi,47.2815,1.1105,Europe,FR
+9,53569,wifi,40.3615,50.0705,Asia,AZ
+10,1000559,wifi,42.6915,23.3395,Europe,BG
+11,14680,wifi,53.3375,83.7715,Europe,RU
+12,1005846,wifi,14.6205,121.0095,Asia,PH
+13,14723,wifi,55.7785,37.4585,Europe,RU
+14,32,wifi,32.8885,-117.1815,North America,US
+15,1002758,wifi,50.1615,16.3595,Europe,CZ
+16,32378,wifi,51.4715,6.9205,Europe,DE
+17,29049,wifi,30.3615,-91.0005,North America,US
 18,53829,wifi,49.2415,28.4985,Europe,UA
-19,1005958,wifi,35.9615,129.3995,Asia,KR
-20,54080,wifi,46.2875,-0.4185,Europe,FR
-21,52028,wifi,42.1615,14.6085,Europe,IT
-22,1002493,wifi,42.3085,-83.7185,North America,US
-23,55739,wifi,44.9115,8.6085,Europe,IT
-24,61316,wifi,52.3005,9.9075,Europe,DE
-25,1003341,wifi,49.7775,14.1695,Europe,CZ
+19,52028,wifi,42.1615,14.6085,Europe,IT
+20,52844,wifi,37.7795,140.4495,Asia,JP
+21,61316,wifi,52.3005,9.9075,Europe,DE
+22,18833,wifi,41.5885,-4.7315,Europe,ES
+23,23016,wifi,44.2605,-78.6625,North America,CA
+24,30596,wifi,32.8205,35.0715,Asia,IL
+25,55739,wifi,44.9115,8.6085,Europe,IT
 26,1006934,wifi,48.2095,22.6385,Europe,UA
-27,55619,wifi,49.0115,1.5475,Europe,FR
+27,23835,wifi,48.9095,13.8685,Europe,CZ
 28,50927,wifi,56.0505,12.6785,Europe,SE
-29,50274,wifi,36.0695,32.8405,Asia,TR
-30,16601,wifi,44.7975,20.3775,Europe,RS
-31,1002768,wifi,45.5215,-122.8095,North America,US
-32,32378,wifi,51.4715,6.9205,Europe,DE
-33,17590,wifi,13.0375,77.7515,Asia,IN
-34,1001151,wifi,46.5275,6.6395,Europe,CH
-35,55404,wifi,52.3995,4.6275,Europe,NL
-36,1006936,wifi,50.3905,30.3685,Europe,UA
-37,1007500,wifi,48.2475,11.6075,Europe,DE
-38,11268,wifi,47.2815,1.1105,Europe,FR
+29,16601,wifi,44.7975,20.3775,Europe,RS
+30,24908,wifi,43.0515,-124.4225,North America,US
+31,17590,wifi,13.0375,77.7515,Asia,IN
+32,1005913,wifi,48.7885,2.1775,Europe,FR
+33,1001151,wifi,46.5275,6.6395,Europe,CH
+34,55404,wifi,52.3995,4.6275,Europe,NL
+35,1006936,wifi,50.3905,30.3685,Europe,UA
+36,29292,wifi,50.0185,8.3515,Europe,DE
+37,50852,wifi,50.3285,11.6995,Europe,DE
+38,54080,wifi,46.2875,-0.4185,Europe,FR
 39,60345,wifi,53.1695,6.7995,Europe,NL
-40,23016,wifi,44.2605,-78.6625,North America,CA
-41,32006,wifi,49.1305,16.4775,Europe,CZ
-42,34009,wifi,49.4115,11.1175,Europe,DE
-43,1000068,wifi,49.0515,17.4705,Europe,CZ
+40,32006,wifi,49.1305,16.4775,Europe,CZ
+41,21529,wifi,50.6415,5.5785,Europe,BE
+42,51025,wifi,43.1295,-77.5615,North America,US
+43,22585,wifi,49.9995,14.6715,Europe,CZ
 44,1004628,wifi,53.0915,8.8785,Europe,DE
-45,27119,wifi,32.0215,34.7375,Asia,IL
-46,23835,wifi,48.9095,13.8685,Europe,CZ
-47,1005913,wifi,48.7885,2.1775,Europe,FR
-48,1002758,wifi,50.1615,16.3595,Europe,CZ
-49,22585,wifi,49.9995,14.6715,Europe,CZ
-50,1005072,cellular,52.1685,6.1405,Europe,NL
-51,27989,cellular,-33.8985,150.8915,Oceania,AU
-52,1000736,cellular,6.2505,-75.5715,South America,CO
-53,50024,cellular,55.6395,37.3685,Europe,RU
-54,35507,cellular,-6.4895,106.7875,Asia,ID
-55,54789,cellular,47.9115,106.9315,Asia,MN
-56,34882,cellular,53.0685,19.4115,Europe,PL
-57,1002626,cellular,33.0805,-117.3115,North America,US
-58,1006110,cellular,-22.3525,-46.9525,South America,BR
-59,17789,cellular,35.1615,138.6715,Asia,JP
-60,52640,cellular,-20.9525,55.3395,Europe,FR
-61,32473,cellular,49.9485,82.6305,Asia,KZ
-62,30952,cellular,24.4785,39.5495,Asia,SA
-63,60985,cellular,6.4495,2.3515,Africa,BJ
-64,21286,cellular,46.0805,11.1615,Europe,IT
-65,1003040,cellular,40.8875,-74.6805,North America,US
-66,31159,cellular,35.7315,51.3795,Asia,IR
-67,61868,cellular,61.2415,-149.8395,North America,US
-68,1001185,cellular,-31.9505,115.8515,Oceania,AU
-69,3028,cellular,37.2915,23.1685,Europe,GR
-70,51136,cellular,52.7905,-2.5615,Europe,GB
-71,26057,cellular,56.3805,24.2295,Europe,LV
-72,53870,cellular,52.0575,14.2205,Europe,DE
-73,1005633,cellular,-43.8115,172.9085,Oceania,NZ
+45,34009,wifi,49.4115,11.1175,Europe,DE
+46,1000068,wifi,49.0515,17.4705,Europe,CZ
+47,27119,wifi,32.0215,34.7375,Asia,IL
+48,55619,wifi,49.0115,1.5475,Europe,FR
+49,1004600,wifi,50.1575,16.9475,Europe,CZ
+50,50612,cellular,47.3785,8.5375,Europe,CH
+51,1001185,cellular,-31.9505,115.8515,Oceania,AU
+52,1002591,cellular,33.4475,-111.7185,North America,US
+53,17789,cellular,35.1615,138.6715,Asia,JP
+54,32473,cellular,49.9485,82.6305,Asia,KZ
+55,863,cellular,-34.9215,-56.1595,South America,UY
+56,50024,cellular,55.6395,37.3685,Europe,RU
+57,27989,cellular,-33.8985,150.8915,Oceania,AU
+58,35507,cellular,-6.4895,106.7875,Asia,ID
+59,20948,cellular,29.3815,47.9795,Asia,KW
+60,1003040,cellular,40.8875,-74.6805,North America,US
+61,60985,cellular,6.4495,2.3515,Africa,BJ
+62,52640,cellular,-20.9525,55.3395,Europe,FR
+63,27363,cellular,53.1285,17.9905,Europe,PL
+64,61868,cellular,61.2415,-149.8395,North America,US
+65,3028,cellular,37.2915,23.1685,Europe,GR
+66,51136,cellular,52.7905,-2.5615,Europe,GB
+67,20102,cellular,60.6985,24.4575,Europe,FI
+68,1005633,cellular,-43.8115,172.9085,Oceania,NZ
+69,24080,cellular,48.6575,15.1615,Europe,AT
+70,54789,cellular,47.9115,106.9315,Asia,MN
+71,54524,cellular,1.3295,103.9285,Asia,SG
+72,1000736,cellular,6.2505,-75.5715,South America,CO
+73,1006110,cellular,-22.3525,-46.9525,South America,BR
 74,35462,cellular,50.4485,30.5205,Europe,UA
-75,1005856,cellular,13.7405,100.5495,Asia,TH
-76,30213,cellular,43.2385,76.8975,Asia,KZ
-77,1005408,cellular,49.8315,18.2875,Europe,CZ
-78,34648,cellular,38.7215,-9.1405,Europe,PT
-79,11902,cellular,46.3385,48.0475,Europe,RU
-80,50705,cellular,55.6995,12.5575,Europe,DK
-81,863,cellular,-34.9215,-56.1595,South America,UY
-82,28126,cellular,42.2705,23.5385,Europe,BG
+75,30235,cellular,49.7995,73.1085,Asia,KZ
+76,50705,cellular,55.6995,12.5575,Europe,DK
+77,1005072,cellular,52.1685,6.1405,Europe,NL
+78,11902,cellular,46.3385,48.0475,Europe,RU
+79,31159,cellular,35.7315,51.3795,Asia,IR
+80,1005856,cellular,13.7405,100.5495,Asia,TH
+81,27411,cellular,36.8475,10.2575,Africa,TN
+82,34648,cellular,38.7215,-9.1405,Europe,PT
 83,1004198,cellular,63.3315,17.0715,Europe,SE
-84,55036,cellular,51.5505,0.0485,Europe,GB
-85,27411,cellular,36.8475,10.2575,Africa,TN
-86,1002591,cellular,33.4475,-111.7185,North America,US
-87,54524,cellular,1.3295,103.9285,Asia,SG
-88,50612,cellular,47.3785,8.5375,Europe,CH
-89,20102,cellular,60.6985,24.4575,Europe,FI
-90,30235,cellular,49.7995,73.1085,Asia,KZ
+84,32433,cellular,42.8985,71.3785,Asia,KZ
+85,26057,cellular,56.3805,24.2295,Europe,LV
+86,55036,cellular,51.5505,0.0485,Europe,GB
+87,28126,cellular,42.2705,23.5385,Europe,BG
+88,50719,cellular,45.4015,11.3275,Europe,IT
+89,30952,cellular,24.4785,39.5495,Asia,SA
+90,15644,cellular,58.7695,5.9795,Europe,NO
 91,15342,cellular,12.3985,-1.5605,Africa,BF
-92,28088,cellular,48.2015,14.1715,Europe,AT
-93,20948,cellular,29.3815,47.9795,Asia,KW
-94,54804,cellular,35.0395,25.9675,Europe,GR
-95,50081,cellular,52.1475,8.6515,Europe,DE
-96,32433,cellular,42.8985,71.3785,Asia,KZ
-97,15644,cellular,58.7695,5.9795,Europe,NO
-98,22394,cellular,48.1995,15.9215,Europe,AT
-99,1000551,cellular,41.0075,28.9795,Asia,TR
-100,62613,starlink,40.8585,-102.8625,North America,US
-101,1006857,starlink,48.6505,9.8495,Europe,DE
-102,1004453,starlink,-33.8715,151.1995,Oceania,AU
-103,63017,starlink,43.9305,-73.2925,North America,US
-104,60797,starlink,-20.8795,55.4515,Europe,FR
-105,1006477,starlink,11.2605,124.0305,Asia,PH
-106,60929,starlink,37.0415,-121.9915,North America,US
-107,1005627,starlink,18.5705,-72.2715,North America,HT
-108,61241,starlink,48.7475,2.4895,Europe,FR
-109,52918,starlink,-21.9285,114.1175,Oceania,AU
-110,62417,starlink,44.5405,-88.2525,North America,US
-111,62390,starlink,48.4275,-123.3685,North America,CA
-112,60549,starlink,35.3415,25.1395,Europe,GR
-113,20544,starlink,53.8295,18.0395,Europe,PL
-114,50017,starlink,39.1005,-77.9625,North America,US
-115,50300,starlink,63.7475,-68.5225,North America,CA
-116,18250,starlink,14.0875,-87.1805,North America,HN
-117,1005817,starlink,45.4005,11.2675,Europe,IT
-118,53852,starlink,54.6485,-1.6405,Europe,GB
-119,54330,starlink,34.2875,-94.2715,North America,US
-120,55492,starlink,53.1285,-113.2085,North America,CA
-121,26380,starlink,48.6075,-4.0885,Europe,FR
-122,50448,starlink,34.2715,-116.3905,North America,US
-123,52422,starlink,42.8485,-89.3715,North America,US
-124,13040,starlink,44.4075,6.4495,Europe,FR
-125,62953,starlink,52.5185,13.4095,Europe,DE
-126,62911,starlink,18.3375,-64.9325,North America,US
-127,61631,starlink,45.4175,-75.7015,North America,CA
-128,62741,starlink,39.9975,-105.2105,North America,US
-129,1006388,starlink,49.7315,7.7715,Europe,DE
-130,19983,starlink,-37.8315,145.6815,Oceania,AU
-131,11585,starlink,59.6395,17.9215,Europe,SE
-132,62083,starlink,46.7585,-119.1685,North America,US
-133,62498,starlink,46.5015,-122.9685,North America,US
-134,1001356,starlink,49.9605,4.9295,Europe,BE
-135,54837,starlink,41.6705,12.6885,Europe,IT
-136,61081,starlink,34.7175,-76.6585,North America,US
-137,35681,starlink,47.1375,15.4515,Europe,AT
-138,1005302,starlink,38.4585,-89.7725,North America,US
-139,61532,starlink,45.3785,-92.5015,North America,US
-140,28221,starlink,37.2075,-107.9815,North America,US
-141,62843,starlink,43.8485,1.3995,Europe,FR
+92,1000551,cellular,41.0075,28.9795,Asia,TR
+93,50081,cellular,52.1475,8.6515,Europe,DE
+94,1002626,cellular,33.0805,-117.3115,North America,US
+95,53870,cellular,52.0575,14.2205,Europe,DE
+96,1000234,cellular,48.0995,11.5285,Europe,DE
+97,25225,cellular,51.1095,20.3485,Europe,PL
+98,1000879,cellular,54.8615,82.9205,Europe,RU
+99,30213,cellular,43.2385,76.8975,Asia,KZ
+100,11585,starlink,59.6395,17.9215,Europe,SE
+101,54330,starlink,34.2875,-94.2715,North America,US
+102,52918,starlink,-21.9285,114.1175,Oceania,AU
+103,23127,starlink,43.2505,-124.3915,North America,US
+104,61241,starlink,48.7475,2.4895,Europe,FR
+105,60797,starlink,-20.8795,55.4515,Europe,FR
+106,1004453,starlink,-33.8715,151.1995,Oceania,AU
+107,50017,starlink,39.1005,-77.9625,North America,US
+108,1006477,starlink,11.2605,124.0305,Asia,PH
+109,18250,starlink,14.0875,-87.1805,North America,HN
+110,1007159,starlink,18.5315,-72.2705,North America,HT
+111,60234,starlink,40.1095,-104.9415,North America,US
+112,1006857,starlink,48.6505,9.8495,Europe,DE
+113,50300,starlink,63.7475,-68.5225,North America,CA
+114,1005817,starlink,45.4005,11.2675,Europe,IT
+115,52422,starlink,42.8485,-89.3715,North America,US
+116,50448,starlink,34.2715,-116.3905,North America,US
+117,60549,starlink,35.3415,25.1395,Europe,GR
+118,55492,starlink,53.1285,-113.2085,North America,CA
+119,17128,starlink,45.7615,4.8385,Europe,FR
+120,61780,starlink,43.1575,-70.6485,North America,US
+121,51475,starlink,53.2195,-0.5395,Europe,GB
+122,60929,starlink,37.0415,-121.9915,North America,US
+123,61631,starlink,45.4175,-75.7015,North America,CA
+124,62083,starlink,46.7585,-119.1685,North America,US
+125,61532,starlink,45.3785,-92.5015,North America,US
+126,26380,starlink,48.6075,-4.0885,Europe,FR
+127,62911,starlink,18.3375,-64.9325,North America,US
+128,62498,starlink,46.5015,-122.9685,North America,US
+129,62953,starlink,52.5185,13.4095,Europe,DE
+130,61081,starlink,34.7175,-76.6585,North America,US
+131,19983,starlink,-37.8315,145.6815,Oceania,AU
+132,1004232,starlink,41.0585,-76.3415,North America,US
+133,28221,starlink,37.2075,-107.9815,North America,US
+134,35681,starlink,47.1375,15.4515,Europe,AT
+135,20544,starlink,53.8295,18.0395,Europe,PL
+136,1001356,starlink,49.9605,4.9295,Europe,BE
+137,1003753,starlink,43.3585,5.4495,Europe,FR
+138,62843,starlink,43.8485,1.3995,Europe,FR
+139,54837,starlink,41.6705,12.6885,Europe,IT
+140,1005302,starlink,38.4585,-89.7725,North America,US
+141,10743,starlink,48.4785,-122.8605,North America,US
 142,16869,starlink,47.6515,-2.0595,Europe,FR
-143,1004232,starlink,41.0585,-76.3415,North America,US
-144,61780,starlink,43.1575,-70.6485,North America,US
-145,61435,starlink,46.7395,-79.8115,North America,CA
-146,23127,starlink,43.2505,-124.3915,North America,US
-147,62553,starlink,36.1185,-79.1605,North America,US
+143,1004353,starlink,52.2385,6.8495,Europe,NL
+144,61435,starlink,46.7395,-79.8115,North America,CA
+145,62417,starlink,44.5405,-88.2525,North America,US
+146,63017,starlink,43.9305,-73.2925,North America,US
+147,1006388,starlink,49.7315,7.7715,Europe,DE
 148,61899,starlink,39.2115,-86.8685,North America,US
-149,1004353,starlink,52.2385,6.8495,Europe,NL
-150,1004353,ethernet,33.4015,-111.7995,North America,US
-151,1004353,ethernet,55.7975,37.4075,Europe,RU
-152,1004353,ethernet,49.1675,16.6295,Europe,CZ
-153,1004353,ethernet,55.7495,37.7575,Europe,RU
-154,1004353,ethernet,52.0285,8.5285,Europe,DE
-155,1004353,ethernet,52.3815,4.8615,Europe,NL
-156,1004353,ethernet,48.2985,14.2885,Europe,AT
-157,1004353,ethernet,52.4395,4.8305,Europe,NL
-158,1004353,ethernet,55.7295,12.5475,Europe,DK
-159,1004353,ethernet,55.6475,37.5185,Europe,RU
-160,1004353,ethernet,49.8375,18.1695,Europe,CZ
-161,1004353,ethernet,50.0195,14.4495,Europe,CZ
-162,1004353,ethernet,55.7995,37.6315,Europe,RU
-163,1004353,ethernet,55.7405,37.5915,Europe,RU
-164,1004353,ethernet,55.8275,12.5315,Europe,DK
-165,1004353,ethernet,50.4215,30.6885,Europe,UA
-166,1004353,ethernet,52.2175,6.0295,Europe,NL
-167,1004353,ethernet,43.1415,-77.6395,North America,US
-168,1004353,ethernet,55.9085,37.5495,Europe,RU
-169,1004353,ethernet,32.8575,-117.2295,North America,US
-170,1004353,ethernet,50.4485,30.4795,Europe,UA
-171,1004353,ethernet,52.4375,4.8275,Europe,NL
-172,1004353,ethernet,50.4585,30.5085,Europe,UA
-173,1004353,ethernet,-31.8215,115.7695,Oceania,AU
-174,1004353,ethernet,55.7385,12.4575,Europe,DK
-175,1004353,ethernet,50.0085,14.4505,Europe,CZ
-176,1004353,ethernet,50.0085,14.4505,Europe,CZ
-177,1004353,ethernet,55.6515,37.5695,Europe,RU
-178,1004353,ethernet,43.2615,76.9605,Asia,KZ
-179,1004353,ethernet,45.4275,-122.7115,North America,US
-180,1004353,ethernet,53.3395,83.6605,Europe,RU
-181,1004353,ethernet,52.1405,8.5275,Europe,DE
-182,1004353,ethernet,47.4215,8.5985,Europe,CH
-183,1004353,ethernet,-33.9985,151.0675,Oceania,AU
-184,1004353,ethernet,50.4415,30.6685,Europe,UA
-185,1004353,ethernet,52.4885,4.6795,Europe,NL
-186,1004353,ethernet,38.7205,-9.3225,Europe,PT
-187,1004353,ethernet,55.7215,37.4275,Europe,RU
-188,1004353,ethernet,-22.3515,-46.9515,South America,BR
-189,1004353,ethernet,55.8595,37.5975,Europe,RU
-190,1004353,ethernet,50.0785,14.4905,Europe,CZ
-191,1004353,ethernet,50.3915,30.4615,Europe,UA
-192,1004353,ethernet,49.1995,16.6385,Europe,CZ
-193,1004353,ethernet,38.7585,-9.2825,Europe,PT
-194,1004353,ethernet,55.6905,12.4995,Europe,DK
-195,1004353,ethernet,47.3495,8.3695,Europe,CH
-196,1004353,ethernet,47.3375,8.6695,Europe,CH
-197,1004353,ethernet,51.4975,7.0495,Europe,DE
-198,1004353,ethernet,51.4315,6.7875,Europe,DE
-199,1004353,ethernet,38.8085,-9.1195,Europe,PT
-200,1004353,ethernet,50.4405,30.6185,Europe,UA
-201,1004353,ethernet,48.9485,2.1405,Europe,FR
-202,1004353,ethernet,52.4595,4.5895,Europe,NL
-203,1004353,ethernet,50.6295,5.5585,Europe,BE
-204,1004353,ethernet,55.8415,37.6385,Europe,RU
-205,1004353,ethernet,43.0715,-77.5925,North America,US
-206,1004353,ethernet,47.3715,8.5385,Europe,CH
-207,1004353,ethernet,42.6975,23.3175,Europe,BG
-208,1004353,ethernet,52.3475,4.9095,Europe,NL
-209,1004353,ethernet,51.4705,6.7575,Europe,DE
-210,1004353,ethernet,51.4985,7.0195,Europe,DE
-211,1004353,ethernet,45.4485,-122.7915,North America,US
-212,1004353,ethernet,52.2905,4.5915,Europe,NL
-213,1004353,ethernet,38.7585,-9.2015,Europe,PT
-214,1004353,ethernet,-23.5615,-46.6525,South America,BR
-215,1004353,ethernet,50.4985,30.3805,Europe,UA
-216,1004353,ethernet,55.8275,37.5395,Europe,RU
-217,1004353,ethernet,46.6615,6.5175,Europe,CH
-218,1004353,ethernet,53.1575,8.6105,Europe,DE
-219,1004353,ethernet,38.7605,-9.2805,Europe,PT
-220,1004353,ethernet,55.6415,12.6015,Europe,DK
-221,1004353,ethernet,49.2175,16.5305,Europe,CZ
-222,1004353,ethernet,40.8895,-74.6815,North America,US
-223,1004353,ethernet,52.3715,4.8975,Europe,NL
-224,1004353,ethernet,14.6005,121.0385,Asia,PH
-225,1004353,ethernet,51.5375,-0.0515,Europe,GB
-226,1004353,ethernet,-33.7915,151.0475,Oceania,AU
-227,1004353,ethernet,32.9175,-117.1395,North America,US
-228,1004353,ethernet,48.7985,2.0615,Europe,FR
-229,1004353,ethernet,38.7885,-9.3105,Europe,PT
-230,1004353,ethernet,45.5075,-122.6095,North America,US
-231,1004353,ethernet,49.1785,16.6885,Europe,CZ
-232,1004353,ethernet,55.6985,12.5905,Europe,DK
-233,1004353,ethernet,53.2295,6.5285,Europe,NL
-234,1004353,ethernet,49.2085,16.5995,Europe,CZ
-235,1004353,ethernet,55.7385,37.4915,Europe,RU
-236,1004353,ethernet,55.8595,37.4675,Europe,RU
-237,1004353,ethernet,-20.9495,55.3015,Europe,FR
-238,1004353,ethernet,50.5115,30.5075,Europe,UA
-239,1004353,ethernet,49.8105,18.2495,Europe,CZ
-240,1004353,ethernet,51.5815,-0.1115,Europe,GB
-241,1004353,ethernet,50.6905,5.6995,Europe,BE
-242,1004353,ethernet,38.7575,-9.2785,Europe,PT
-243,1004353,ethernet,61.1215,-149.7705,North America,US
-244,1004353,ethernet,50.0095,14.4485,Europe,CZ
-245,1004353,ethernet,38.7585,-9.2785,Europe,PT
-246,1004353,ethernet,52.4595,4.6085,Europe,NL
-247,1004353,ethernet,52.3375,9.8305,Europe,DE
-248,1004353,ethernet,48.0785,11.5515,Europe,DE
-249,1004353,ethernet,41.0075,28.9785,Asia,TR
+149,1004876,starlink,45.2505,8.8605,Europe,IT
+150,33242,ethernet,49.2085,16.5995,Europe,CZ
+151,60169,ethernet,43.1415,-77.6395,North America,US
+152,16688,ethernet,55.6415,12.6015,Europe,DK
+153,1002403,ethernet,38.7585,-9.2825,Europe,PT
+154,55505,ethernet,55.7495,37.7575,Europe,RU
+155,12721,ethernet,45.4275,-122.7115,North America,US
+156,3633,ethernet,55.7585,37.4085,Europe,RU
+157,53915,ethernet,55.8595,37.4675,Europe,RU
+158,60329,ethernet,51.5815,-0.1115,Europe,GB
+159,31925,ethernet,49.1995,16.6385,Europe,CZ
+160,52512,ethernet,55.0185,83.0175,Europe,RU
+161,910,ethernet,53.1675,8.6075,Europe,DE
+162,20253,ethernet,-31.8215,115.7695,Oceania,AU
+163,50915,ethernet,55.8595,37.5975,Europe,RU
+164,33915,ethernet,55.7295,12.5475,Europe,DK
+165,15133,ethernet,45.4485,-122.7915,North America,US
+166,1000063,ethernet,50.0085,14.4505,Europe,CZ
+167,12832,ethernet,50.4585,30.5085,Europe,UA
+168,27793,ethernet,53.0985,8.7915,Europe,DE
+169,916,ethernet,52.1405,8.5275,Europe,DE
+170,20372,ethernet,50.0785,14.4905,Europe,CZ
+171,62660,ethernet,32.9175,-117.1395,North America,US
+172,17708,ethernet,55.7215,37.4275,Europe,RU
+173,10928,ethernet,47.4215,8.5985,Europe,CH
+174,53533,ethernet,38.7585,-9.2015,Europe,PT
+175,3639,ethernet,55.8415,37.6385,Europe,RU
+176,19496,ethernet,-20.9495,55.3015,Europe,FR
+177,3811,ethernet,55.7975,37.4075,Europe,RU
+178,1003035,ethernet,40.8895,-74.6815,North America,US
+179,11629,ethernet,50.4415,30.6685,Europe,UA
+180,17950,ethernet,52.2175,6.0295,Europe,NL
+181,1003584,ethernet,55.7995,37.6315,Europe,RU
+182,54989,ethernet,50.3915,30.4615,Europe,UA
+183,3172,ethernet,48.9485,2.1405,Europe,FR
+184,1005341,ethernet,51.4975,7.0495,Europe,DE
+185,27383,ethernet,55.7385,37.4915,Europe,RU
+186,52413,ethernet,54.8585,82.9675,Europe,RU
+187,61248,ethernet,-33.9685,151.0695,Oceania,AU
+188,52824,ethernet,53.2295,6.5285,Europe,NL
+189,2374,ethernet,52.4395,4.8305,Europe,NL
+190,29206,ethernet,51.4305,6.7675,Europe,DE
+191,63060,ethernet,52.3375,9.8305,Europe,DE
+192,18396,ethernet,50.7405,5.5615,Europe,BE
+193,11179,ethernet,51.5115,-0.1295,Europe,GB
+194,1002482,ethernet,48.0785,11.5515,Europe,DE
+195,54234,ethernet,52.4595,4.6085,Europe,NL
+196,21228,ethernet,47.3715,8.5385,Europe,CH
+197,23232,ethernet,49.1785,16.6885,Europe,CZ
+198,54041,ethernet,49.1675,16.6295,Europe,CZ
+199,1003664,ethernet,53.3395,83.6605,Europe,RU
+200,23764,ethernet,55.6795,12.5905,Europe,DK
+201,1000801,ethernet,42.6975,23.3175,Europe,BG
+202,1006118,ethernet,51.4315,6.7875,Europe,DE
+203,27530,ethernet,41.0075,28.9785,Asia,TR
+204,34019,ethernet,50.6315,5.5575,Europe,BE
+205,1005823,ethernet,52.0285,8.5285,Europe,DE
+206,1340,ethernet,55.8275,37.5395,Europe,RU
+207,11540,ethernet,52.3475,4.9095,Europe,NL
+208,16808,ethernet,46.6615,6.5175,Europe,CH
+209,1006232,ethernet,55.5985,37.4085,Europe,RU
+210,31924,ethernet,50.6295,5.5585,Europe,BE
+211,4472,ethernet,50.4985,30.3805,Europe,UA
+212,11818,ethernet,50.5115,30.5075,Europe,UA
+213,12162,ethernet,38.8085,-9.1195,Europe,PT
+214,1003290,ethernet,49.2175,16.5115,Europe,CZ
+215,52752,ethernet,52.4885,4.6795,Europe,NL
+216,50520,ethernet,55.6475,37.5185,Europe,RU
+217,3671,ethernet,45.5075,-122.6095,North America,US
+218,1000261,ethernet,49.2175,16.5305,Europe,CZ
+219,3019,ethernet,52.3715,4.8975,Europe,NL
+220,28895,ethernet,48.0195,11.4815,Europe,DE
+221,61507,ethernet,51.4705,6.7575,Europe,DE
+222,22424,ethernet,50.0095,14.4485,Europe,CZ
+223,1003900,ethernet,52.4375,4.8275,Europe,NL
+224,1000347,ethernet,38.7605,-9.2805,Europe,PT
+225,1005796,ethernet,52.2905,4.5915,Europe,NL
+226,52343,ethernet,38.7885,-9.3105,Europe,PT
+227,52502,ethernet,55.7385,12.4575,Europe,DK
+228,3253,ethernet,55.9085,37.5495,Europe,RU
+229,16100,ethernet,38.7575,-9.2825,Europe,PT
+230,10120,ethernet,51.5375,-0.0515,Europe,GB
+231,52516,ethernet,38.7205,-9.3225,Europe,PT
+232,60259,ethernet,61.1215,-149.7705,North America,US
+233,55007,ethernet,47.3205,8.5175,Europe,CH
+234,13656,ethernet,50.6905,5.6995,Europe,BE
+235,26518,ethernet,43.0715,-77.5925,North America,US
+236,35643,ethernet,50.4485,30.4795,Europe,UA
+237,51636,ethernet,33.3505,-111.7915,North America,US
+238,61879,ethernet,33.4015,-111.7995,North America,US
+239,1001360,ethernet,32.8575,-117.2295,North America,US
+240,13444,ethernet,47.3495,8.3695,Europe,CH
+241,52340,ethernet,48.1275,11.6295,Europe,DE
+242,17093,ethernet,48.7985,2.0615,Europe,FR
+243,1002179,ethernet,43.2615,76.9605,Asia,KZ
+244,23713,ethernet,-33.7915,151.0475,Oceania,AU
+245,1003444,ethernet,50.0195,14.4495,Europe,CZ
+246,20059,ethernet,55.6515,37.5695,Europe,RU
+247,1001142,ethernet,51.4985,7.0195,Europe,DE
+248,55354,ethernet,52.4595,4.5895,Europe,NL
+249,1004789,ethernet,52.3815,4.8615,Europe,NL
