@@ -56,11 +56,15 @@ if __name__ == "__main__":
     for index, row in df.iterrows():
         target_ip = row['IP']
         probe_id_list = remove_first_last(row['probe_id'])
-        run_ripe_atlas_ping(target_ip, probe_id_list)
+        tens = len(probe_id_list) // 100
+        for i in range(tens):
+            run_ripe_atlas_ping(target_ip, probe_id_list[i * 100 : (i+1)*100])
     
     # Iterate over each row in the DataFrame to start traceroute measurements
     for index, row in df.iterrows():
         target_ip = row['IP']
         probe_id_list = remove_first_last(row['probe_id'])
-        run_ripe_atlas_traceroute(target_ip, probe_id_list)
+        tens = len(probe_id_list) // 100
+        for i in range(tens):
+            run_ripe_atlas_traceroute(target_ip, probe_id_list[i * 100 : (i+1)*100])
 
