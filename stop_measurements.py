@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "key"
+API_KEY = "your_API_key"
 
 FIRST_ID = 67568027
 LAST_ID = 67568333
