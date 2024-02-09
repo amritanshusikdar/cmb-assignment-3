@@ -5,6 +5,7 @@ to start the "ping" and "traceroute" measurements
 
 import pandas as pd
 import subprocess
+import ast
 
 def run_ripe_atlas_ping(target_ip, probe_list):
     # Construct the command
@@ -30,14 +31,6 @@ def run_ripe_atlas_traceroute(target_ip, probe_list):
         print("Error:", e)
         print("Measurement initiation failed.")
 
-def list_to_string(lst):
-    result = ""
-    for i in range(len(lst)):
-        result += str(lst[i])
-        if i != len(lst) - 1:
-            result += ","
-    return result
-
 def remove_first_last(string):
     if len(string) <= 2:
         return ""  # If the string has 2 or fewer characters, removing first and last will make it empty
@@ -55,16 +48,18 @@ if __name__ == "__main__":
     # Iterate over each row in the DataFrame to start ping measurements
     for index, row in df.iterrows():
         target_ip = row['IP']
-        probe_id_list = remove_first_last(row['probe_id'])
+        # probe_id_list_fullStr = remove_first_last(row['probe_id'])
+
+        probe_id_list_str = row['probe_id']
+        # print("str: ", len(probe_id_list_str))
+        probe_id_list = ast.literal_eval(probe_id_list_str)
+
         tens = len(probe_id_list) // 100
+        tens += 1
+
         for i in range(tens):
-            run_ripe_atlas_ping(target_ip, probe_id_list[i * 100 : (i+1)*100])
-    
-    # Iterate over each row in the DataFrame to start traceroute measurements
-    for index, row in df.iterrows():
-        target_ip = row['IP']
-        probe_id_list = remove_first_last(row['probe_id'])
-        tens = len(probe_id_list) // 100
-        for i in range(tens):
-            run_ripe_atlas_traceroute(target_ip, probe_id_list[i * 100 : (i+1)*100])
+            sub_probe_id_list = probe_id_list[i * 100 : (i+1)*100]
+            sub_probe_id_list_str = remove_first_last(str(sub_probe_id_list))
+            run_ripe_atlas_ping(target_ip, sub_probe_id_list_str)
+
 
