@@ -1,27 +1,15 @@
 """
-This script is used to call RIPE ATLAS CLI Tools
-to start the "ping" and "traceroute" measurements
+This script is used to call RIPE ATLAS CLI tools
+to start the "ping" measurements
 """
 
 import pandas as pd
 import subprocess
 import ast
 
-def run_ripe_atlas_ping(target_ip, probe_list):
+def run_ripe_atlas_ping(target_ip, probe_list_str):
     # Construct the command
-    command = ["ripe-atlas", "measure", "ping", "--target", target_ip, "--from-probes", probe_list, "--interval", "7200"]
-    
-    try:
-        # Execute the command
-        subprocess.run(command, check=True)
-        print("Measurement successfully initiated.")
-    except subprocess.CalledProcessError as e:
-        print("Error:", e)
-        print("Measurement initiation failed.")
-
-def run_ripe_atlas_traceroute(target_ip, probe_list):
-    # Construct the command
-    command = ["ripe-atlas", "measure", "traceroute", "--target", target_ip, "--from-probes", probe_list]
+    command = ["ripe-atlas", "measure", "ping", "--target", target_ip, "--from-probes", probe_list_str, "--interval", "7200"]
     
     try:
         # Execute the command
@@ -37,21 +25,16 @@ def remove_first_last(string):
     else:
         return string[1:-1]
     
-# Example usage
+# Main function
 if __name__ == "__main__":
     # Read the input CSV file
     df = pd.read_csv('data/datacenter_probe_mapping.csv')
-    
-    # run_ripe_atlas_ping("99.78.176.246", "50941")
-    # run_ripe_atlas_traceroute("99.78.176.246", "50941")
 
     # Iterate over each row in the DataFrame to start ping measurements
     for index, row in df.iterrows():
         target_ip = row['IP']
-        # probe_id_list_fullStr = remove_first_last(row['probe_id'])
 
         probe_id_list_str = row['probe_id']
-        # print("str: ", len(probe_id_list_str))
         probe_id_list = ast.literal_eval(probe_id_list_str)
 
         tens = len(probe_id_list) // 100
@@ -60,6 +43,10 @@ if __name__ == "__main__":
         for i in range(tens):
             sub_probe_id_list = probe_id_list[i * 100 : (i+1)*100]
             sub_probe_id_list_str = remove_first_last(str(sub_probe_id_list))
-            run_ripe_atlas_ping(target_ip, sub_probe_id_list_str)
 
+            """
+            If you uncomment the part below it will run CLI commands
+            to start the measurements, please use it cautiously
+            """
+            # run_ripe_atlas_ping(target_ip, sub_probe_id_list_str)
 
