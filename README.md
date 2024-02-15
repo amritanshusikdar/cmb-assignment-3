@@ -11,6 +11,12 @@
 
 - probes_selection.py
 
+### Used for endpoints list update
+
+- the 2 scripts part of this repo:
+    https://github.com/cloudreachability/data
+- parse_cloudregions_ping_results.py
+
 ### Used for endpoints selection
 
 - endpoints_selection.py

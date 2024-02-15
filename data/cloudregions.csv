@@ -1,0 +1,146 @@
+URL,CP,State,City,Country
+https://ec2.us-east-1.amazonaws.com/ping,AWS,N. Virginia,Ashburn,United States
+https://ec2.us-east-2.amazonaws.com/ping,AWS,Ohio,Columbus,United States
+https://ec2.us-west-1.amazonaws.com/ping,AWS,N. California,San Francisco,United States
+null,AWS,N. California,San Francisco,United States
+https://ec2.us-west-2.amazonaws.com/ping,AWS,Oregon,Portland,United States
+https://ec2.ap-east-1.amazonaws.com/ping,AWS,Hong Kong,Hong Kong,Hong Kong
+https://ec2.ap-south-1.amazonaws.com/ping,AWS,Mumbai,Mumbai,India
+https://ec2.ap-northeast-3.amazonaws.com/ping,AWS,Osaka,Osaka,Japan
+null,AWS,Osaka,Osaka,Japan
+https://ec2.ap-northeast-2.amazonaws.com/ping,AWS,Seoul,Seoul,South Korea
+https://ec2.ap-southeast-1.amazonaws.com/ping,AWS,Singapore,Singapore,Singapore
+https://ec2.ap-southeast-2.amazonaws.com/ping,AWS,Sydney,Sydney,Australia
+null,AWS,Sydney,Sydney,Australia
+https://ec2.ap-southeast-3.amazonaws.com/ping,AWS,Jakarta,Jakarta,Indonesia
+https://ec2.ap-northeast-1.amazonaws.com/ping,AWS,Tokyo,Tokyo,Japan
+https://ec2.ca-central-1.amazonaws.com/ping,AWS,Canada Central,Montreal,Canada
+https://ec2.eu-south-1.amazonaws.com/ping,AWS,Milan,Milan,Italy
+https://ec2.eu-central-1.amazonaws.com/ping,AWS,Frankfurt,Frankfurt,Germany
+null,AWS,Frankfurt,Frankfurt,Germany
+https://ec2.eu-west-1.amazonaws.com/ping,AWS,Ireland,Dublin,Ireland
+https://ec2.eu-west-2.amazonaws.com/ping,AWS,London,London,United Kingdom
+https://ec2.eu-west-3.amazonaws.com/ping,AWS,Paris,Paris,France
+https://ec2.eu-north-1.amazonaws.com/ping,AWS,Stockholm,Stockholm,Sweden
+https://ec2.me-south-1.amazonaws.com/ping,AWS,Bahrain,Manama,Bahrain
+https://ec2.af-south-1.amazonaws.com/ping,AWS,Cape Town,Cape Town,South Africa
+null,AWS,São Paulo,São Paulo,Brazil
+https://ec2.sa-east-1.amazonaws.com/ping,AWS,São Paulo,São Paulo,Brazil
+null,AWS,São Paulo,São Paulo,Brazil
+https://feitsui-bom.oss-ap-south-1.aliyuncs.com/ping.html,Alibaba,Mumbai,Mumbai,India
+https://feitsui-kul.oss-ap-southeast-3.aliyuncs.com/ping.html,Alibaba,Kuala Lumpur,Kuala Lumpur,Malaysia
+https://feitsui-silicon-valley.oss-us-west-1.aliyuncs.com/ping.html,Alibaba,Silicon Valley,San Jose,United States
+https://feitsui-cgk.oss-ap-southeast-5.aliyuncs.com/ping.html,Alibaba,Jakarta,Jakarta,Indonesia
+https://feitsui-sin.oss-ap-southeast-1.aliyuncs.com/ping.html,Alibaba,Singapore,Singapore,Singapore
+https://feitsui-mnl.oss-ap-southeast-6.aliyuncs.com/ping.html,Alibaba,Manila,Manila,Philippines
+https://feitsui-syd.oss-ap-southeast-2.aliyuncs.com/ping.html,Alibaba,Sydney,Sydney,Australia
+https://feitsui-bkk.oss-ap-southeast-7.aliyuncs.com/ping.html,Alibaba,Bangkok,Bangkok,Thailand
+https://feitsui-dxb.oss-me-east-1.aliyuncs.com/ping.html,Alibaba,Dubai,Dubai,United Arab Emirates
+https://feitsui-icn.oss-ap-northeast-2.aliyuncs.com/ping.html,Alibaba,Seoul,Seoul,South Korea
+https://feitsui-fra.oss-eu-central-1.aliyuncs.com/ping.html,Alibaba,Frankfurt,Frankfurt,Germany
+https://feitsui-virginia.oss-us-east-1.aliyuncs.com/ping.html,Alibaba,Virginia,Ashburn,United States
+https://feitsui-nrt.oss-ap-northeast-1.aliyuncs.com/ping.html,Alibaba,Tokyo,Tokyo,Japan
+https://feitsui-lhr.oss-eu-west-1.aliyuncs.com/ping.html,Alibaba,London,London,United Kingdom
+"https://feitsui-hkg.oss-cn-hongkong.aliyuncs.com/ping.html,Alibaba,""Hong Kong, China"",Hong Kong,China"
+https://wa-us-ping.vultr.com,Vultr,WA,Seattle,United States
+https://lax-ca-us-ping.vultr.com,Vultr,CA,Los Angeles,United States
+https://sjo-ca-us-ping.vultr.com,Vultr,CA,Silicon Valley,United States
+https://fl-us-ping.vultr.com,Vultr,FL,Miami,United States
+https://ga-us-ping.vultr.com,Vultr,GA,Atlanta,United States
+https://hon-hi-us-ping.vultr.com,Vultr,HI,Honolulu,United States
+https://il-us-ping.vultr.com,Vultr,IL,Chicago,United States
+https://nj-us-ping.vultr.com,Vultr,NJ,New Jersey,United States
+https://tx-us-ping.vultr.com,Vultr,TX,Dallas,United States
+https://tor-ca-ping.vultr.com,Vultr,Unknown,Toronto,Canada
+https://mex-mx-ping.vultr.com,Vultr,Unknown,Mexico City,Mexico
+https://sao-br-ping.vultr.com,Vultr,Unknown,Sao Paulo,Brazil
+https://fra-de-ping.vultr.com,Vultr,Unknown,Frankfurt,Germany
+https://mad-es-ping.vultr.com,Vultr,Unknown,Madrid,Spain
+https://par-fr-ping.vultr.com,Vultr,Unknown,Paris,France
+https://lon-gb-ping.vultr.com,Vultr,Unknown,London,UK
+https://ams-nl-ping.vultr.com,Vultr,Unknown,Amsterdam,Netherlands
+https://waw-pl-ping.vultr.com,Vultr,Unknown,Warsaw,Poland
+https://sto-se-ping.vultr.com,Vultr,Unknown,Stockholm,Sweden
+https://hnd-jp-ping.vultr.com,Vultr,Unknown,Tokyo,Japan
+https://sel-kor-ping.vultr.com,Vultr,Unknown,Seoul,Korea
+https://sgp-ping.vultr.com,Vultr,Unknown,Seoul,Korea
+https://syd-au-ping.vultr.com,Vultr,Unknown,Sydney,Australia
+https://mel-au-ping.vultr.com,Vultr,Unknown,Melbourne,Australia
+https://speedtest.newark.linode.com/,Linode,US East,Newark,East
+https://speedtest.atlanta.linode.com/,Linode,US Southeast,Atlanta,Southeast
+https://speedtest.dallas.linode.com/,Linode,US Central,Dallas,Central
+https://speedtest.fremont.linode.com/,Linode,US West,Fremont,West
+https://speedtest.toronto1.linode.com/,Linode,CA Central,Toronto,Central
+https://speedtest.frankfurt.linode.com/,Linode,Germany,Frankfurt,Unknown
+https://speedtest.london.linode.com/,Linode,UK,London,Unknown
+https://speedtest.singapore.linode.com/,Linode,AP South,Singapore,South
+https://speedtest.syd1.linode.com/,Linode,AP Southeast,Sydney,Southeast
+https://speedtest.tokyo2.linode.com/,Linode,AP Northeast,Tokyo,Northeast
+https://speedtest.mumbai1.linode.com/,Linode,AP West,Mumbai,West
+https://feitsui-hkg-1251417183.cos.ap-hongkong.myqcloud.com/ping.html,Tencent,Unknown,Hong Kong,China
+https://feitsui-bkk-1251417183.cos.ap-bangkok.myqcloud.com/ping.html,Tencent,Unknown,Bangkok,Thailand
+https://feitsui-cgk-1251417183.cos.ap-jakarta.myqcloud.com/ping.html,Tencent,Unknown,Jakarta,Indonesia
+https://feitsui-bom-1251417183.cos.ap-mumbai.myqcloud.com/ping.html,Tencent,Unknown,Mumbai,India
+https://feitsui-icn-1251417183.cos.ap-seoul.myqcloud.com/ping.html,Tencent,Unknown,Seoul,Korea
+https://feitsui-sin-1251417183.cos.ap-singapore.myqcloud.com/ping.html,Tencent,Unknown,Singapore,Singapore
+https://feitsui-nrt-1251417183.cos.ap-tokyo.myqcloud.com/ping.html,Tencent,Unknown,Tokyo,Japan
+https://feitsui-iad-1251417183.cos.na-ashburn.myqcloud.com/ping.html,Tencent,VA,Ashburn,United States
+https://feitsui-siliconvalley-1251417183.cos.na-siliconvalley.myqcloud.com/ping.html,Tencent,CA,Silicon Valley,United States
+https://feitsui-yto-1251417183.cos.na-toronto.myqcloud.com/ping.html,Tencent,Unknown,Toronto,Canada
+https://feitsui-gru-1251417183.cos.sa-saopaulo.myqcloud.com/ping.html,Tencent,Unknown,Sao Paulo,Brazil
+https://feitsui-fra-1251417183.cos.eu-frankfurt.myqcloud.com/ping.html,Tencent,Unknown,Frankfurt,Germany
+https://feitsui-hk.hk.ufileos.com/ping.html,UCloud,hk,Hong Kong,Hong Kong
+https://feitsui-tpe.tw-tp.ufileos.com/ping.html,UCloud,tw-tp,Taipei,Taiwan
+https://feitsui-los.afr-nigeria.ufileos.com/ping.html,UCloud,afr-nigeria,Lagos,Nigeria
+https://feitsui-gru.bra-saopaulo.ufileos.com/ping.html,UCloud,bra-saopaulo,Sao Paulo,Brazil
+https://feitsui-fra.ge-fra.ufileos.com/ping.html,UCloud,ge-fra,Frankfurt,Germany
+https://feitsui-cgk.idn-jakarta.ufileos.com/ping.html,UCloud,idn-jakarta,Jakarta,Indonesia
+https://feitsui-bom.ind-mumbai.ufileos.com/ping.html,UCloud,ind-mumbai,Mumbai,India
+https://feitsui-icn.kr-seoul.ufileos.com/ping.html,UCloud,kr-seoul,Seoul,Korea
+https://feitsui-sg.sg.ufileos.com/ping.html,UCloud,sg,Singapore,Singapore
+https://feitsui-dxb.uae-dubai.ufileos.com/ping.html,UCloud,uae-dubai,Dubai,UAE
+https://feitsui-lax.us-ca.ufileos.com/ping.html,UCloud,us-ca,Los Angeles,US
+https://feitsui-us-ws.us-ws.ufileos.com/ping.html,UCloud,us-ws,Washington,US
+https://feitsui-sgn.vn-sng.ufileos.com/ping.html,UCloud,vn-sng,Singapore,Singapore
+https://feitsui-bjs.cn-bj.ufileos.com/ping.html,UCloud,cn-bj,Beijing,China
+https://feitsui-can.cn-gd.ufileos.com/ping.html,UCloud,cn-gd,Guangzhou,China
+https://feitsui-sha2.cn-sh2.ufileos.com/ping.html,UCloud,cn-sh2,Shanghai 2,China
+https://fsn1-speed.hetzner.com/,Hetzner,fsn1,Falkenstein,Germany
+https://hel1-speed.hetzner.com/,Hetzner,hel1,Helsinki,Finland
+https://ash-speed.hetzner.com/,Hetzner,ash,Virginia,USA
+https://hil-speed.hetzner.com/,Hetzner,hil,Orlando,USA
+https://objectstorage.eu-frankfurt-1.oraclecloud.com/ping,Oracle,eu-frankfurt-1,Unknown, Unknown
+https://objectstorage.ap-singapore-1.oraclecloud.com/ping,Oracle,ap-singapore-1,Unknown, Unknown
+https://objectstorage.me-jeddah-1.oraclecloud.com/ping,Oracle,me-jeddah-1,Unknown, Unknown
+https://objectstorage.il-jerusalem-1.oraclecloud.com/ping,Oracle,il-jerusalem-1,Unknown, Unknown
+https://objectstorage.ap-seoul-1.oraclecloud.com/ping,Oracle,ap-seoul-1,Unknown, Unknown
+https://objectstorage.ca-toronto-1.oraclecloud.com/ping,Oracle,ca-toronto-1,Canada, Toronto
+https://objectstorage.us-sanjose-1.oraclecloud.com/ping,Oracle,us-sanjose-1,Unknown, Unknown
+https://objectstorage.eu-madrid-1.oraclecloud.com/ping,Oracle,eu-madrid-1,Unknown, Unknown
+https://objectstorage.ap-sydney-1.oraclecloud.com/ping,Oracle,ap-sydney-1,Australia, Sydney
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/ping,Oracle,sa-saopaulo-1,Brazil, Sao Paulo
+https://objectstorage.mx-monterrey-1.oraclecloud.com/ping,Oracle,mx-monterrey-1,Unknown, Unknown
+https://objectstorage.ap-osaka-1.oraclecloud.com/ping,Oracle,ap-osaka-1,Unknown, Unknown
+https://objectstorage.us-ashburn-1.oraclecloud.com/ping,Oracle,us-ashburn-1,Unknown, Unknown
+https://objectstorage.sa-santiago-1.oraclecloud.com/ping,Oracle,sa-santiago-1,Unknown, Unknown
+https://objectstorage.eu-stockholm-1.oraclecloud.com/ping,Oracle,eu-stockholm-1,Unknown, Unknown
+https://objectstorage.eu-amsterdam-1.oraclecloud.com/ping,Oracle,eu-amsterdam-1,Unknown, Unknown
+https://objectstorage.me-abudhabi-1.oraclecloud.com/ping,Oracle,me-abudhabi-1,Unknown, Unknown
+https://objectstorage.ap-tokyo-1.oraclecloud.com/ping,Oracle,ap-tokyo-1,Unknown, Unknown
+https://objectstorage.me-dubai-1.oraclecloud.com/ping,Oracle,me-dubai-1,Unknown, Unknown
+https://objectstorage.eu-zurich-1.oraclecloud.com/ping,Oracle,eu-zurich-1,Unknown, Unknown
+https://objectstorage.ap-hyderabad-1.oraclecloud.com/ping,Oracle,ap-hyderabad-1,Unknown, Unknown
+https://objectstorage.ap-melbourne-1.oraclecloud.com/ping,Oracle,ap-melbourne-1,Australia, Melbourne
+https://objectstorage.sa-vinhedo-1.oraclecloud.com/ping,Oracle,sa-vinhedo-1,Brazil, Vinhedo
+https://objectstorage.ap-chuncheon-1.oraclecloud.com/ping,Oracle,ap-chuncheon-1,Unknown, Unknown
+https://objectstorage.uk-cardiff-1.oraclecloud.com/ping,Oracle,uk-cardiff-1,Unknown, Unknown
+https://objectstorage.us-phoenix-1.oraclecloud.com/ping,Oracle,us-phoenix-1,Unknown, Unknown
+https://objectstorage.ca-montreal-1.oraclecloud.com/ping,Oracle,ca-montreal-1,Unknown, Unknown
+https://objectstorage.af-johannesburg-1.oraclecloud.com/ping,Oracle,af-johannesburg-1,Unknown, Unknown
+https://objectstorage.eu-marseille-1.oraclecloud.com/ping,Oracle,eu-marseille-1,Unknown, Unknown
+https://objectstorage.eu-milan-1.oraclecloud.com/ping,Oracle,eu-milan-1,Unknown, Unknown
+https://objectstorage.uk-london-1.oraclecloud.com/ping,Oracle,uk-london-1,Unknown, Unknown
+https://objectstorage.ap-mumbai-1.oraclecloud.com/ping,Oracle,ap-mumbai-1,Unknown, Unknown
+https://objectstorage.eu-paris-1.oraclecloud.com/ping,Oracle,eu-paris-1,Unknown, Unknown
+https://objectstorage.mx-queretaro-1.oraclecloud.com/ping,Oracle,mx-queretaro-1,Unknown, Unknown
+https://objectstorage.us-chicago-1.oraclecloud.com/ping,Oracle,us-chicago-1,Unknown, Unknown
