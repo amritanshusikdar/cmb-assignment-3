@@ -103,7 +103,7 @@ def select_probes(L_wifi: list, L_cellular: list, L_starlink: list, possible_cho
     first_100probes = wifi_centers + cellular_centers
 
     ## generating the corresponding map file
-    generate_map_file(first_100probes, "first100-test", ['blue']*100)
+    generate_map_file(first_100probes, "first100-test", ['blue']*50 + ['orange']*50)
 
     print("First 100 probes selected:")
     print(first_100probes)
@@ -157,7 +157,7 @@ def select_probes(L_wifi: list, L_cellular: list, L_starlink: list, possible_cho
     generate_map_file(last_100probes, f"last100-test{radius}", ['green']*100)
 
     ## generating a map file with all of the probes
-    generate_map_file(first_100probes + starlink_probes + last_100probes, f"selected-test{radius}", ["blue"]*100+["red"]*50+["green"]*100)
+    generate_map_file(first_100probes + starlink_probes + last_100probes, f"selected-test{radius}", ["blue"]*50+["orange"]*50+["red"]*50+["green"]*100)
 
     return first_100probes + starlink_probes + last_100probes
 
