@@ -19,7 +19,8 @@
 
 ### Used for endpoints selection
 
-- endpoints_selection.py
+- parse_cloudregions_ping_results.py
+- endpoints_maps.py
 
 ### Used to create the mappings between probes and endpoints
 
