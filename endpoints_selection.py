@@ -26,14 +26,6 @@ def generate_map_file(ids_list: [int], file_name: str, colors: [str] = None):
     with open("maps/"+file_name+".html", 'w') as f:
         f.write(map_html)
 
-def cluster(ids_list: [int], n: int) -> [int]:
-    """Calculates n clusters of points from a given list of ids and returns the centroids of those clusters"""
-    kmeans = KMeans(n_clusters=n)
-    locs = get_location_list(ids_list)
-    kmeans.fit(locs)
-    closests, _ = pairwise_distances_argmin_min(kmeans.cluster_centers_, locs)
-    return [ids_list[i] for i in closests]
-
 
 colors = ['red', 'blue', 'green', 'purple', 'orange', 'pink', 'gray', 'cadetblue']
 
