@@ -2,7 +2,7 @@
 This script will map probes to datacenters located near them.
 
 There are two rules for connecting nodes and data centers:
-1. It will try to connect every probe to every data center in its own country.
+1. It will try to connect every probe to every data center in its own country as long as they are close enough.
 2. It will also connect a node to every data center inside a radius of 2000 kilometers.
 
 The script reads two files:
@@ -48,6 +48,16 @@ for probe_index, probe in df_probes.iterrows():
 df_combined = pd.DataFrame(mappings, columns=['probe_id', 'data_center_url', 'IP', 'probe latitude', 'probe longitude',
                                               'data center latitude', 'data center longitude'])
 
+# Group by data_center_url and IP, then aggregate probe_id into a list
+grouped = df_combined.groupby(['data_center_url', 'IP'])['probe_id'].apply(list).reset_index()
 
-df_combined.to_csv('data/probe_datacenter_mapping.csv')
+# Add an index column
+grouped['index'] = grouped.index
+
+# Reorder columns
+grouped = grouped[['index', 'data_center_url', 'IP', 'probe_id']]
+
+# Save the result to CSV file
+grouped.to_csv('data/datacenter_probe_mapping.csv', index=False)
+
 

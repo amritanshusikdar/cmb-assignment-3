@@ -25,7 +25,6 @@
 
 ### Used to start/stop the measurements
 
-- probe_datacenter_mapping_converter.py
 - ping_measurements.py
 - traceroute_measurements.py
 - stop_measurements.py
