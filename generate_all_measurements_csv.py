@@ -32,7 +32,7 @@ def get_results(measurement_id):
 with open(filename, 'w', newline='') as file:
     writer = csv.writer(file)
 
-    header = ["rtt1", "rtt2", "rtt3", "ttl", "x", "fw", "lts", "dst_name", "af", "dst_addr", "src_addr", "proto",
+    header = ["rtt1", "rtt2", "rtt3", "ttl", "fw", "lts", "dst_name", "af", "dst_addr", "src_addr", "proto",
               "size", "dup",
               "rcvd", "sent", "min", "max", "avg", "msm_id", "prb_id", "timestamp", "msm_name", "from", "type",
               "group_id", "step", "stored_timestamp"]
@@ -43,7 +43,12 @@ with open(filename, 'w', newline='') as file:
         for r in result:
             row = []
 
-            if "error" in r["result"][0].keys():
+            is_error = False
+            for item in result:
+                if "error" in item.keys():
+                    is_error = True
+                    break
+            if is_error:
                 print("---------ERROR ENCOUNTERED--------")
                 print(r["result"])
                 print("----------------------------------")
@@ -63,7 +68,7 @@ with open(filename, 'w', newline='') as file:
             for rtt in r["result"]:
                 for key in rtt:
                     if key == "x":
-                        row.append(-1)
+                        row.append(-1.0)
                     elif key == "rtt":
                         row.append(rtt[key])
                 count += 1
@@ -71,7 +76,7 @@ with open(filename, 'w', newline='') as file:
             if count != r["sent"]:
                 print("CAUTION: CHECK COUNTS!!")
             for i in range(3 - count):
-                row.append(-1)
+                row.append(-1.0)
 
             if "ttl" in r.keys():
                 row.append(r["ttl"])
