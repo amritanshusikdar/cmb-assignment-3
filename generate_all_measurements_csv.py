@@ -70,11 +70,13 @@ with open(filename, 'w', newline='') as file:
 
             if count != r["sent"]:
                 print("CAUTION: CHECK COUNTS!!")
-            # for i in range(r["sent"] - count):
-            #     row.append(-1)
+            for i in range(3 - count):
+                row.append(-1)
 
             if "ttl" in r.keys():
                 row.append(r["ttl"])
+            else:
+                row.append(-1)
 
             row.extend([r["fw"], r["lts"],
                         r["dst_name"], r["af"],
